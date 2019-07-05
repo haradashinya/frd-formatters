@@ -10,7 +10,7 @@ A Formatter collection for me.
 | z2h  | Convert zenkaku to hankaku |
 
 
-## (Tips) Apply formatters to Vue filters
+## Apply formatter to Vue filters
 
 ```typescript
 import {z2h} from "frd-formatters/dist/index";
