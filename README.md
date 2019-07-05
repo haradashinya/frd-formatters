@@ -2,7 +2,15 @@
 
 A Formatter collection for me.
 
-## Apply formatters to vue's filters
+
+## Formatter list
+
+| Name | Description|
+| ---  | ---        |
+| z2h  | Convert zenkaku to hankaku |
+
+
+## (Tips) Apply formatters to Vue filters
 
 ```typescript
 import {z2h} from "frd-formatters/dist/index";
