@@ -1,0 +1,21 @@
+{
+  "name": "frd-formatters",
+  "version": "1.0.1",
+  "description": "A formatter collection for me.",
+  "main": "index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "furodriven",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.3.4000"
+  }
+}
